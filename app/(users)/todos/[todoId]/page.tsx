@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import React from 'react';
-import { Todo } from '../../../typings';
+import { Todo } from '../../../../typings';
 
 export const dynamicParams = true; // ? default
 
