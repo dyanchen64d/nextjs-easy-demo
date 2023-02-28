@@ -14,6 +14,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>Nextjs 13</title>
+      </head>
       <body>
         <Header />
         {children}
